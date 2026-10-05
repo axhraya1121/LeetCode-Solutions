@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 1 / 238 (0.4%)
+- **Completed:** 2 / 238 (0.8%)
 
 ---
 
@@ -147,7 +147,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] s Triangle
 - [ ] s Triangle II
 - [ ] Subsets
-- [ ] Median of Two Sorted Arrays
+- [x] [Median of Two Sorted Arrays](./C/Hard/4. Median of Two Sorted Arrays/)
 
 ### 📂 PART  2: SUBARRAYS, SUBSETS & KSUM This
 - [ ] Maximum Subarray
